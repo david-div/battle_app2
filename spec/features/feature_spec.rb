@@ -24,4 +24,6 @@ feature 'Testing infrastructure' do
     expect(page).to have_content 'David hp: 100'
   end
 
+
+
 end

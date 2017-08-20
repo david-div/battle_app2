@@ -9,6 +9,13 @@
         1,
         1,
         null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
         null
       ],
       "/Users/main/makers/week3/day5/Battle/spec/features/feature_spec.rb": [
@@ -38,22 +45,36 @@
         1,
         null,
         null,
+        null,
+        null,
         null
       ],
       "/Users/main/makers/week3/day5/Battle/spec/player_spec.rb": [
         1,
         null,
         1,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
         null,
         1,
         1,
+        null,
+        null,
         1,
-        1,
+        4,
+        null,
+        null,
+        null,
         null,
         null,
         null
       ]
     },
-    "timestamp": 1503068122
+    "timestamp": 1503071656
   }
 }
